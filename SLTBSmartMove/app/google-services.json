@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1059633798480",
+    "firebase_url": "https://sltbsmartmove-default-rtdb.firebaseio.com",
+    "project_id": "sltbsmartmove",
+    "storage_bucket": "sltbsmartmove.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059633798480:android:00c4d6bb46aa13459b2055",
+        "android_client_info": {
+          "package_name": "com.example.sltbsmartmove"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZCJ9SlO6Y5ncmtLpAsHUNdNgB79rY660"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
